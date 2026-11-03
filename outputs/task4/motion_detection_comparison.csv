@@ -1,0 +1,7 @@
+Parameter,Frame Differencing,MOG2,Lucas-Kanade
+Technique,Frame Differencing,Background Subtraction,Optical Flow
+Working Principle,Compares consecutive video frames,Separates foreground from learned background,Tracks feature points between frames
+Main Output,Binary motion mask,Foreground mask,Motion vectors and tracking trails
+Advantages,Simple and fast,Can detect moving objects against a stationary background,Shows direction and movement of feature points
+Limitations,Sensitive to lighting changes and camera movement,May classify shadows and background changes as foreground,Depends on successfully detected and tracked features
+Application,Basic motion detection,Surveillance and people tracking,Motion tracking and video analysis

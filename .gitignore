@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large original video
+dataset/videos/*.mp4
+
+# Temporary files
+.DS_Store
+Thumbs.db

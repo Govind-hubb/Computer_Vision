@@ -1,0 +1,6 @@
+Parameter,Value
+Algorithm,MOG2
+History,500
+Variance Threshold,25
+Detect Shadows,True
+Frames Processed,90

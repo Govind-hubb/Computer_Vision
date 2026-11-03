@@ -1,0 +1,8 @@
+Parameter,Haar Cascade,YOLO
+Algorithm,Viola-Jones,You Only Look Once
+Technology,Traditional Machine Learning,Deep Learning
+Primary purpose,Face Detection,Object Detection
+Objects detected,Face-like patterns,Multiple object categories
+Detection count,1,3
+False detection / Limitation,Cup handle incorrectly detected as a face,Some cups were missed and bounding boxes overlapped
+Result,False positive in this experiment,Detected 3 cups in this experiment
